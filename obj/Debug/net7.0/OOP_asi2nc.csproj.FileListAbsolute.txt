@@ -1,0 +1,15 @@
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/bin/Debug/net7.0/OOP_asi2nc
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/bin/Debug/net7.0/OOP_asi2nc.deps.json
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/bin/Debug/net7.0/OOP_asi2nc.runtimeconfig.json
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/bin/Debug/net7.0/OOP_asi2nc.dll
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/bin/Debug/net7.0/OOP_asi2nc.pdb
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/OOP_asi2nc.csproj.AssemblyReference.cache
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/OOP_asi2nc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/OOP_asi2nc.AssemblyInfoInputs.cache
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/OOP_asi2nc.AssemblyInfo.cs
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/OOP_asi2nc.csproj.CoreCompileInputs.cache
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/OOP_asi2nc.dll
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/refint/OOP_asi2nc.dll
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/OOP_asi2nc.pdb
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/OOP_asi2nc.genruntimeconfig.cache
+/Users/ra/Projects/OOP_asi2nc/OOP_asi2nc/obj/Debug/net7.0/ref/OOP_asi2nc.dll
